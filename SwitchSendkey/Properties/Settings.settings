@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SwitchSendkey.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SW_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{ENTER}</Value>
+    </Setting>
+    <Setting Name="SW_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ABCDE</Value>
+    </Setting>
+    <Setting Name="SW_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{RIGHT}</Value>
+    </Setting>
+    <Setting Name="SW_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{LEFT}</Value>
+    </Setting>
+    <Setting Name="port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
